@@ -13,6 +13,7 @@ The `test` database contains two tables `users` and `messages`
 
 **messages table = 100 Million records**
 
+#### Schema  : 
 **The tables were originally created using below DDL statements :**
 
 ```sql
