@@ -9,8 +9,8 @@ The `test` database contains two tables `users` and `messages`
 
 ### Datset Size :
 
-**users table = 10 Million records
-messages table = 100 Million records**
+**users table = 10 Million records**
+**messages table = 100 Million records**
 
 ```sql
 CREATE TABLE users (
